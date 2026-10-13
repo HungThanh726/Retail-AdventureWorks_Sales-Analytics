@@ -15,6 +15,7 @@ retail-aw-analytics/
     ├── AdventureWorks_Sales_2016.csv     (23,935 rows)
     ├── AdventureWorks_Sales_2017.csv     (29,481 rows)
     ├── AdventureWorks_Sales_2018.csv     (29,481 rows)
+    ├── AdventureWorks_Sales_2023.csv     (29,541 rows)
     ├── AdventureWorks_Customers.csv      (18,148 rows)
     ├── AdventureWorks_Returns.csv         (1,809 rows)
     └── AdventureWorks_Territories.csv        (10 rows)
