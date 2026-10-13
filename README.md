@@ -1,6 +1,6 @@
 # 📊 Retail & AdventureWorks Sales Analytics
 
-Phân tích bán lẻ 2 domain: **Superstore Canada** (Orders) và **AdventureWorks** (Sales 2015–2023). Tổng hợp từ BTVN1→BTVN6 và 8 file CSV thực tế.
+Phân tích bán lẻ 2 domain: **Superstore** (Orders) và **AdventureWorks** (Sales 2015–2023). Tổng hợp từ BT1→BT6 và 8 file CSV thực tế.
 
 ---
 
@@ -9,13 +9,12 @@ Phân tích bán lẻ 2 domain: **Superstore Canada** (Orders) và **AdventureWo
 ```
 retail-aw-analytics/
 ├── README.md
-├── Portfolio_Master_TSQL.sql     
+├── MCI_project.sql     
 └── data/
     ├── AdventureWorks_Sales_2015.csv      (2,630 rows)
     ├── AdventureWorks_Sales_2016.csv     (23,935 rows)
     ├── AdventureWorks_Sales_2017.csv     (29,481 rows)
     ├── AdventureWorks_Sales_2018.csv     (29,481 rows)
-    ├── AdventureWorks_Sales_2023.csv     (29,541 rows)
     ├── AdventureWorks_Customers.csv      (18,148 rows)
     ├── AdventureWorks_Returns.csv         (1,809 rows)
     └── AdventureWorks_Territories.csv        (10 rows)
@@ -117,7 +116,7 @@ Net Profit    = Total Revenue − Total Cost
 ## 🚀 Cách chạy
 
 1. SSMS → import 8 CSV vào `LEARNSQL`
-2. Mở `Portfolio_Master_TSQL.sql`
+2. Mở `MCI_project.sql`
 3. Chạy **FOUNDATION** trước (tạo view `ALLSALES`)
 4. Chạy từng BQ theo thứ tự
 ---
