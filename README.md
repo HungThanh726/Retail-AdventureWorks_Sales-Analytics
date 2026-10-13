@@ -27,7 +27,6 @@ retail-aw-analytics/
 | Layer | Công cụ |
 |-------|---------|
 | Database | SQL Server (T-SQL) |
-| Visualization | Power BI Desktop |
 | Version Control | Git / GitHub |
 
 ---
