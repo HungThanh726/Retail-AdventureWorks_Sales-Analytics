@@ -106,7 +106,8 @@ Net Profit    = Total Revenue − Total Cost
 
 ## 📈 Key Findings
 
-- **2015→2016:** Đơn hàng tăng **+810%** (2,630→23,935)
+- **2015→2016:** Đơn hàng được mua tăng **+810%** (2,630→23,935)
+- customer base grew 55% from 2016 to 2018, and returns increased in line with sales volume
 - **2016→2018:** Khách hàng từ 9,133 → 14,186 (+55%)
 - **Australia** dẫn đầu Pacific; **Southwest** mạnh nhất US
 - **Returns:** 86 (2015) → 972 (2017) — tăng theo growth
